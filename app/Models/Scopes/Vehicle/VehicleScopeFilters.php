@@ -5,6 +5,7 @@ namespace App\Models\Scopes\Vehicle;
 use App\Enums\ColorEnum;
 use App\Enums\FuelEnum;
 use App\Enums\TransmissionEnum;
+use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Builder;
 
 /**
@@ -42,19 +43,19 @@ trait VehicleScopeFilters
     }
 
     // TODO: Adicionar filtro para '2022/2023'
-    public function scopeWhereYear(Builder $builder, string $startYear, string $endYear): Builder
+    public function scopeWhereYear(Builder $builder, ?string $startYear, ?string $endYear): Builder
     {
-        return $builder->whereBetween('year', [$startYear, $endYear]);
+        return $builder->whereBetween('year', [$startYear ?? 1900, $endYear ?? (new Carbon())->year]);
     }
 
-    public function scopeWherePrice(Builder $builder, string $startPrice, string $endPrice): Builder
+    public function scopeWherePrice(Builder $builder, ?string $startPrice, ?string $endPrice): Builder
     {
-        return $builder->whereBetween('price', [$startPrice, $endPrice]);
+        return $builder->whereBetween('price', [$startPrice ?? 0, $endPrice ?? PHP_INT_MAX]);
     }
 
-    public function scopeWhereMileage(Builder $builder, string $startMileage, string $endMileage): Builder
+    public function scopeWhereMileage(Builder $builder, ?string $startMileage, ?string $endMileage): Builder
     {
-        return $builder->whereBetween('mileage', [$startMileage, $endMileage]);
+        return $builder->whereBetween('mileage', [$startMileage ?? 0, $endMileage ?? PHP_INT_MAX]);
     }
 
     public function scopeWhereTransmission(Builder $builder, TransmissionEnum $transmissionEnum): Builder

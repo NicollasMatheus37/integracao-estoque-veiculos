@@ -8,7 +8,7 @@
         <div>
             <label class="label">Fornecedor</label>
             <select class="select select-bordered select-sm w-full max-w-xs" wire:model="$parent.filter.supplier">
-                <option selected value="null">Selecione...</option>
+                <option disabled selected value="null">Selecione...</option>
                 @foreach($suppliers as $supplier)
                     <option value="{{ $supplier->id }}" wire:key="supplier_{{$supplier->id}}">
                         {{ $supplier->name }}
@@ -20,7 +20,7 @@
         <div>
             <label class="label">Marca</label>
             <select class="select select-bordered select-sm w-full max-w-xs" wire:model="$parent.filter.brand">
-                <option selected value="null">Selecione...</option>
+                <option disabled selected value="null">Selecione...</option>
                 @foreach($brands as $brand)
                     <option value="{{ $brand }}" wire:key="brand_{{$brand}}">
                         {{ $brand }}
@@ -46,9 +46,9 @@
 
             <div class="flex gap-2">
                 {{-- TODO: Criar máscara para currency --}}
-                <input class="input input-bordered input-sm w-full max-w-xs" type="text" placeholder="De"
+                <input class="input input-bordered input-sm w-full max-w-xs" type="number" placeholder="De"
                     wire:model="$parent.filter.price.from"/>
-                <input class="input input-bordered input-sm w-full max-w-xs" type="text" placeholder="Até"
+                <input class="input input-bordered input-sm w-full max-w-xs" type="number" placeholder="Até"
                     wire:model="$parent.filter.price.to"/>
             </div>
         </div>
@@ -68,7 +68,7 @@
         <div>
             <label class="label">Câmbio</label>
             <select class="select select-bordered select-sm w-full max-w-xs" wire:model="$parent.filter.transmission">
-                <option selected value="null">Selecione...</option>
+                <option disabled selected value="null">Selecione...</option>
                 @foreach($transmissions as $transmission)
                     <option value="{{ $transmission }}" wire:key="transmission_{{$transmission->value}}">
                         {{ $transmission->description() }}
@@ -80,7 +80,7 @@
         <div>
             <label class="label">Tipo de Combustível</label>
             <select class="select select-bordered select-sm w-full max-w-xs" wire:model="$parent.filter.fuel">
-                <option selected value="null">Selecione...</option>
+                <option disabled selected value="null">Selecione...</option>
                 @foreach($fuels as $fuel)
                     <option value="{{ $fuel }}" wire:key="fuel_{{$fuel->value}}">
                         {{ $fuel->description() }}
@@ -92,7 +92,7 @@
         <div>
             <label class="label">Cor</label>
             <select class="select select-bordered select-sm w-full max-w-xs" wire:model="$parent.filter.color">
-                <option selected value="null">Selecione...</option>
+                <option disabled selected value="null">Selecione...</option>
                 @foreach($colors as $color)
                     <option value="{{ $color }}" wire:key="color_{{$color->value}}">
                         {{ $color->description() }}
