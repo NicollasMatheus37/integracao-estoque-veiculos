@@ -1,6 +1,6 @@
 <div class="absolute navbar h-16 px-4 bg-base-100 shadow drop-shadow" style="z-index: 99999">
     <div class="flex-1">
-        <a href="/estoque" wire:navigate class="btn btn-ghost text-xl">
+        <a href="/estoque" wire:navigate class="btn btn-ghost text-xl gap-4">
             <i class="fa-solid fa-car"></i>
             <span>Integração de estoque de veículos</span>
         </a>
@@ -9,9 +9,9 @@
         <ul class="menu menu-horizontal">
             <li><a href="/estoque" wire:navigate>Estoque</a></li>
 
-            <li><a href="/importar" wire:navigate>Importar</a></li>
-
             <li><a href="/fornecedores" wire:navigate>Fornecedores</a></li>
+
+            <li><a href="/importar" wire:navigate>Importar</a></li>
 
             <li wire:click="logout" class="hover:bg-transparent">
                 <div class="hover:bg-transparent flex items-center">

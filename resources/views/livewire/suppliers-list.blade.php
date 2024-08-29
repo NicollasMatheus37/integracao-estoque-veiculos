@@ -37,7 +37,7 @@
                 <tr>
                     <td>{{ $supplier->name }}</td>
                     <td>{{ $supplier->importedVehiclesCount }}</td>
-                    <td>{{ $supplier->lastImportedLogDate }}</td>
+                    <td>{{ $supplier->lastImportLog->created_at }}</td>
                     <td class="w-1">
                         <i
                             wire:click="delete({{ $supplier->id }})"
