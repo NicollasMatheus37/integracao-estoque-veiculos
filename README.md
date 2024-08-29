@@ -24,6 +24,7 @@ Para instalar o projeto, siga os passos abaixo:
 - Clone o repositório `git clone https://github.com/NicollasMatheus37/integracao-estoque-veiculos.git`
 - Acesse a pasta do projeto `cd integracao-estoque-veiculos`
 - Instale as dependências do PHP `composer install`
+- Instale as dependências do NPM `npm install`
 - Copie o arquivo `.env.example` para `.env` e configure o banco de dados
 - Gere a chave da aplicação `php artisan key:generate`
 - Execute as migrations `php artisan migrate`
