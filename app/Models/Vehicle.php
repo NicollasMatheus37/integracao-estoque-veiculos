@@ -89,6 +89,7 @@ class Vehicle extends BaseModel
     {
         return Attribute::make(
             get: fn ($value) => new Collection(json_decode($value)),
+            set: fn ($value) => json_encode($value)
         );
     }
 
@@ -101,6 +102,6 @@ class Vehicle extends BaseModel
 
     public function supplier(): BelongsTo
     {
-        return $this->belongsTo(Supplier::class);
+        return $this->belongsTo(Supplier::class)->withTrashed();
     }
 }

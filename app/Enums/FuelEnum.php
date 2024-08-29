@@ -48,18 +48,4 @@ enum FuelEnum: int
             default => self::OTHER,
         };
     }
-
-    public static function getDescriptionArray(): array
-    {
-        return [
-            self::getDescription(self::GASOLINE->value),
-            self::getDescription(self::DIESEL->value),
-            self::getDescription(self::ELECTRIC->value),
-            self::getDescription(self::HYBRID->value),
-            self::getDescription(self::ETHANOL->value),
-            self::getDescription(self::NATURAL_GAS->value),
-            self::getDescription(self::FLEX_GASOLINE_ETHANOL->value),
-            self::getDescription(self::OTHER->value),
-        ];
-    }
 }

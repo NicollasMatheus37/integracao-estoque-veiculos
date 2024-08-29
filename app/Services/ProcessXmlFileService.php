@@ -4,6 +4,7 @@ namespace App\Services;
 
 use App\Enums\FuelEnum;
 use App\Enums\TransmissionEnum;
+use App\Helpers\OptionHelper;
 use App\Models\ImportLog;
 use App\Models\Vehicle;
 use Carbon\Carbon;
@@ -53,7 +54,7 @@ class ProcessXmlFileService
             'doors_qtt' => $collect->get('portas'),
             'price' => str_replace('.', ',', $collect->get('precoVenda')),
             'date' => Carbon::createFromFormat('d/m/Y H:i', $collect->get('ultimaAtualizacao')),
-            'options' => json_encode($collect->input('opcionais.opcional')),
+            'options' => OptionHelper::mapIntoEnumFromDescription($collect->input('opcionais.opcional')),
         ]);
     }
 }

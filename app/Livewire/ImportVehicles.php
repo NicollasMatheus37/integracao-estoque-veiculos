@@ -39,7 +39,7 @@ class ImportVehicles extends Component
     public function render()
     {
         $suppliers = Supplier::all();
-        $importLogs = ImportLog::all();
+        $importLogs = ImportLog::orderByDesc('created_at')->get();
 
         return view('livewire.import-vehicles', [
             'suppliers' => $suppliers,

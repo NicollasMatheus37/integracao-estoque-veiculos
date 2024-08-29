@@ -39,15 +39,4 @@ enum TransmissionEnum: int
             default => self::OTHER,
         };
     }
-
-    public static function getDescriptionArray(): array
-    {
-        return [
-            self::getDescription(self::AUTOMATIC->value),
-            self::getDescription(self::MANUAL->value),
-            self::getDescription(self::SEMI_AUTOMATIC->value),
-            self::getDescription(self::CVT->value),
-            self::getDescription(self::OTHER->value),
-        ];
-    }
 }

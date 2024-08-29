@@ -2,6 +2,7 @@
 
 namespace App\Livewire\Components;
 
+use App\Helpers\OptionHelper;
 use App\Models\Vehicle;
 use Livewire\Component;
 
@@ -11,6 +12,10 @@ class VehicleCard extends Component
 
     public function render()
     {
-        return view('livewire.components.vehicle-card');
+        $options = OptionHelper::mapIntoDescriptionFromEnumValues($this->vehicle->options->toArray());
+
+        return view('livewire.components.vehicle-card', [
+            'options' => implode(', ', $options),
+        ]);
     }
 }

@@ -2,7 +2,9 @@
 
 namespace App\Models\Scopes\Vehicle;
 
-use App\Helpers\GeneralScopesHelper;
+use App\Enums\ColorEnum;
+use App\Enums\FuelEnum;
+use App\Enums\TransmissionEnum;
 use Illuminate\Database\Eloquent\Builder;
 
 /**
@@ -10,50 +12,73 @@ use Illuminate\Database\Eloquent\Builder;
  *
  * @method static Builder whereTerm(string $term)
  * @method static Builder whereBrand(string $brand)
+ * @method static Builder whereYear(string $startYear, string $endYear)
+ * @method static Builder wherePrice(string $startPrice, string $endPrice)
+ * @method static Builder whereMileage(string $startMileage, string $endMileage)
+ * @method static Builder whereTransmission(TransmissionEnum $transmissionEnum)
+ * @method static Builder whereFuel(FuelEnum $fuel)
+ * @method static Builder whereColor(ColorEnum $color)
+ * @method static Builder whereDoors(int $doors)
+ * @method static Builder whereDate(string $date)
  */
 trait VehicleScopeFilters
 {
     public function scopeWhereTerm(Builder $builder, string $term): Builder
     {
-        return $builder->where(function (Builder $query) use ($term) {
-            $query->where('brand', $term)
-                ->orWhere('model', 'like', "%$term%");
-        });
+        return $builder->where(
+            fn (Builder $query) => $query->whereLike('brand', $term)
+                ->orWhereLike('model', $term)
+        );
+    }
+
+    public function scopeWhereSupplier(Builder $builder, int $supplierId): Builder
+    {
+        return $builder->where('supplier_id', $supplierId);
     }
 
     public function scopeWhereBrand(Builder $builder, string $brand): Builder
     {
-        return GeneralScopesHelper::filterArrayString($builder, 'brand', $brand);
-    }
-
-    public function scopeWhereModel(Builder $builder, string $model): Builder
-    {
-        return GeneralScopesHelper::filterArrayString($builder, 'model', $model);
+        return $builder->whereLike('brand', $brand);
     }
 
     // TODO: Adicionar filtro para '2022/2023'
-    public function scopeWhereYear(Builder $builder, string $year): Builder
+    public function scopeWhereYear(Builder $builder, string $startYear, string $endYear): Builder
     {
-        return GeneralScopesHelper::filterArrayString($builder, 'year', $year);
+        return $builder->whereBetween('year', [$startYear, $endYear]);
     }
 
-    public function scopeWhereVersion(Builder $builder, string $version): Builder
+    public function scopeWherePrice(Builder $builder, string $startPrice, string $endPrice): Builder
     {
-        return GeneralScopesHelper::filterArrayString($builder, 'version', $version);
+        return $builder->whereBetween('price', [$startPrice, $endPrice]);
     }
 
-    public function scopeWhereColor(Builder $builder, string $color): Builder
+    public function scopeWhereMileage(Builder $builder, string $startMileage, string $endMileage): Builder
     {
-        return GeneralScopesHelper::filterArrayString($builder, 'color', $color);
+        return $builder->whereBetween('mileage', [$startMileage, $endMileage]);
     }
 
-    public function scopeWhereMileage(Builder $builder, string $mileage): Builder
+    public function scopeWhereTransmission(Builder $builder, TransmissionEnum $transmissionEnum): Builder
     {
-        return GeneralScopesHelper::filterArrayString($builder, 'mileage', $mileage);
+        return $builder->where('transmission', $transmissionEnum->value);
     }
 
-    public function scopeWhereFuel(Builder $builder, string $fuel): Builder
+    public function scopeWhereFuel(Builder $builder, FuelEnum $fuel): Builder
     {
-        return GeneralScopesHelper::filterArrayString($builder, 'fuel', $fuel);
+        return $builder->where('fuel', $fuel->value);
+    }
+
+    public function scopeWhereColor(Builder $builder, ColorEnum $color): Builder
+    {
+        return $builder->where('color', $color->description());
+    }
+
+    public function scopeWhereDoors(Builder $builder, int $doors): Builder
+    {
+        return $builder->where('doors_qtt', $doors);
+    }
+
+    public function scopeWhereOptions(Builder $builder, array $options): Builder
+    {
+        return $builder->whereJsonContains('options', $options);
     }
 }

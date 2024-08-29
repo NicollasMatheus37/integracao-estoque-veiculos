@@ -51,6 +51,13 @@ class ImportLog extends BaseModel
         );
     }
 
+    public function createdAt(): Attribute
+    {
+        return Attribute::make(
+            get: fn (string $value) => $value ? $this->asDateTime($value)->format('d/m/Y H:i') : null
+        );
+    }
+
     public function supplier()
     {
         return $this->belongsTo(Supplier::class)->withTrashed();

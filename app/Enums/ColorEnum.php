@@ -36,20 +36,4 @@ enum ColorEnum: string
             self::OTHER => 'Outra',
         };
     }
-
-    public static function getDescriptionArray(): array
-    {
-        return [
-            self::getDescription(self::WHITE->value),
-            self::getDescription(self::BLACK->value),
-            self::getDescription(self::SILVER->value),
-            self::getDescription(self::RED->value),
-            self::getDescription(self::GREY->value),
-            self::getDescription(self::BLUE->value),
-            self::getDescription(self::GREEN->value),
-            self::getDescription(self::YELLOW->value),
-            self::getDescription(self::ORANGE->value),
-            self::getDescription(self::OTHER->value),
-        ];
-    }
 }

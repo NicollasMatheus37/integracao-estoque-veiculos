@@ -2,21 +2,13 @@
 
 namespace App\Services;
 
-use App\Livewire\Forms\VehicleFilterForm;
 use Illuminate\Support\Collection;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xls;
 
 class ExportVehicleService
 {
-    public static function export(VehicleFilterForm $filter): string
-    {
-        $vehicles = $filter->getFilteredVehicles();
-
-        return self::exportXlsx($vehicles);
-    }
-
-    private static function exportXlsx(Collection $vehicles)
+    public static function export(Collection $vehicles): string
     {
         $spreadsheet = new Spreadsheet();
         $sheet = $spreadsheet->getActiveSheet();

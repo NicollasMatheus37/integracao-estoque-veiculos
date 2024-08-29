@@ -51,6 +51,7 @@
                 <th>Nome do arquivo</th>
                 <th>Status</th>
                 <th>Quantidade de itens</th>
+                <th>Data da importação</th>
             </tr>
             </thead>
             <tbody>
@@ -61,11 +62,18 @@
                     <td>{{ $importLog->status }}</td>
                     <td>
                         <div class="flex gap-6">
-                            <span class="font-semibold">{{ $importLog->total_items }}</span>
-                            <span class="text-success">{{ $importLog->processed_items }}</span>
-                            <span class="text-error">{{ $importLog->error_items }}</span>
+                            <div class="tooltip" data-tip="Total de itens">
+                                <span class="font-semibold">{{ $importLog->total_items }}</span>
+                            </div>
+                            <div class="tooltip" data-tip="Importados com sucesso">
+                                <span class="text-success">{{ $importLog->processed_items }}</span>
+                            </div>
+                            <div class="tooltip" data-tip="Importados com falha">
+                                <span class="text-error">{{ $importLog->error_items }}</span>
+                            </div>
                         </div>
                     </td>
+                    <td>{{ $importLog->created_at }}</td>
                 </tr>
             @endforeach
             @if(count($importLogs) === 0)
