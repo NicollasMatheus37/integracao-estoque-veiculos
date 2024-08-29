@@ -61,7 +61,7 @@
                     <td>{{ $importLog->original_file_name }}</td>
                     <td>{{ $importLog->status }}</td>
                     <td>
-                        <div class="flex gap-6">
+                        <div class="w-1/2 justify-between flex gap-6">
                             <div class="tooltip" data-tip="Total de itens">
                                 <span class="font-semibold">{{ $importLog->total_items }}</span>
                             </div>

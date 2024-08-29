@@ -21,6 +21,7 @@ class ProcessXmlFileService
         $json = json_decode(json_encode($xml), true);
         $array = data_get($json, 'veiculos.veiculo', []);
         $collect = new Collection($array);
+        \Log::info(print_r($collect, true));
 
         if ($collect->isEmpty()) {
             throw new Exception('Invalid file format');

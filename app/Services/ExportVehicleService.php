@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+use App\Helpers\OptionHelper;
 use Illuminate\Support\Collection;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xls;
@@ -36,7 +37,7 @@ class ExportVehicleService
                 $vehicle->doors_qtt,
                 $vehicle->price,
                 $vehicle->date,
-                implode(', ', $vehicle->options->toArray())
+                implode(', ', OptionHelper::mapIntoDescriptionFromEnumValues($vehicle->options->toArray()))
             ], null, 'A' . $row);
             $row++;
         });

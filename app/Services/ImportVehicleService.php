@@ -9,7 +9,7 @@ use Storage;
 
 class ImportVehicleService
 {
-    public static function import(TemporaryUploadedFile $file, int $supplierId): void
+    public static function import(TemporaryUploadedFile $file, int $supplierId): ImportLog
     {
         $importLog = self::initImportModel($file, $supplierId);
 
@@ -22,6 +22,8 @@ class ImportVehicleService
         } finally {
             $importLog->save();
         }
+
+        return $importLog;
     }
 
     public static function initImportModel(TemporaryUploadedFile $file, int $supplierId): ImportLog

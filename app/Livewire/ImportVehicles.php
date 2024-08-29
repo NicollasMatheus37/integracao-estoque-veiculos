@@ -2,6 +2,7 @@
 
 namespace App\Livewire;
 
+use App\Enums\ImportLogStatusEnum;
 use App\Models\ImportLog;
 use App\Models\Supplier;
 use App\Services\ImportVehicleService;
@@ -27,10 +28,22 @@ class ImportVehicles extends Component
         $this->loading = true;
         try {
             $this->validate();
-            ImportVehicleService::import($this->file, $this->supplierId);
+            $importLog = ImportVehicleService::import($this->file, $this->supplierId);
             $this->supplierId = null;
             $this->file = null;
-            $this->js("alert('Arquivo importado!')");
+
+            $message = match ($importLog->status) {
+                ImportLogStatusEnum::PROCESSING => 'A importação do arquivo não pode ser finalizada.',
+                ImportLogStatusEnum::SUCCESS => 'Arquivo importado com sucesso!',
+                ImportLogStatusEnum::FAILED => 'Falha ao importar arquivo.',
+            };
+
+            $this->js("alert('$message')");
+            if ($importLog->status == ImportLogStatusEnum::FAILED) {
+
+                return;
+            }
+
         } finally {
             $this->loading = false;
         }

@@ -2,7 +2,11 @@
     <livewire:components.vehicle-filter-sidebar :filter="$filter"/>
     <div class="w-full max-h-screen overflow-y-scroll overflow-x-clip p-8 pt-20">
         <div class="w-full grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-y-2 gap-x-4">
-            <div class="flex justify-end col-span-full gap-4">
+            <div class="flex justify-between col-span-full gap-4">
+                <div>
+                    Total de {{count($vehicles)}} veículos
+                </div>
+
                 <button class="btn btn-primary btn-sm" wire:click="export">
                     <span class="loading loading-spinner" wire:loading></span>
                     <i class="fa-solid fa-file-excel" wire:loading.remove></i>

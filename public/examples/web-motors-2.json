@@ -1,0 +1,81 @@
+{
+    "veiculos": [
+        {
+            "id": 12345,
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2024,
+            "versao": "LT",
+            "cor": "Branco",
+            "km": 10000,
+            "combustivel": "Gasolina",
+            "cambio": "Automático",
+            "portas": 4,
+            "preco": 85000.00,
+            "date": "2024-06-11 19:30:21",
+            "opcionais": [
+                "Ar condicionado",
+                "Vidros elétricos",
+                "Direção hidráulica",
+                "Travas elétricas"
+            ]
+        },
+        {
+            "id": 54321,
+            "marca": "Ford",
+            "modelo": "Fiesta",
+            "ano": 2023,
+            "versao": "SE",
+            "cor": "Prata",
+            "km": 8500,
+            "combustivel": "Etanol",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 55000.00,
+            "date": "2023-09-20 14:15:10",
+            "opcionais": [
+                "Airbags",
+                "Sensor de estacionamento",
+                "Bluetooth"
+            ]
+        },
+        {
+            "id": 98765,
+            "marca": "Volkswagen",
+            "modelo": "Gol",
+            "ano": 2022,
+            "versao": "Trendline",
+            "cor": "Azul",
+            "km": 12000,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 42000.00,
+            "date": "2022-07-05 10:40:05",
+            "opcionais": [
+                "Direção elétrica",
+                "Retrovisores elétricos",
+                "Central multimídia"
+            ]
+        },
+        {
+            "id": 24680,
+            "marca": "Honda",
+            "modelo": "Civic",
+            "ano": 2023,
+            "versao": "EX",
+            "cor": "Preto",
+            "km": 15000,
+            "combustivel": "Gasolina",
+            "cambio": "CVT",
+            "portas": 4,
+            "preco": 72000.00,
+            "date": "2023-08-15 08:55:30",
+            "opcionais": [
+                "Bancos em couro",
+                "Teto solar",
+                "Controle de tração"
+            ]
+        }
+    ]
+}

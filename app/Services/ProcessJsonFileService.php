@@ -51,7 +51,7 @@ class ProcessJsonFileService
             'fuel' => FuelEnum::fromDescription($collect->get('combustivel')),
             'transmission' => TransmissionEnum::fromDescription($collect->get('cambio')),
             'doors_qtt' => $collect->get('portas'),
-            'price' => $collect->get('preco'),
+            'price' => str_replace('.', ',', $collect->get('preco')),
             'date' => new Carbon($collect->get('data')),
             'options' => OptionHelper::mapIntoEnumFromDescription($collect->get('opcionais')),
         ]);

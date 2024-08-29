@@ -1,0 +1,2013 @@
+{
+    "veiculos": [
+        {
+            "id": 12345,
+            "marca": "Honda",
+            "modelo": "208",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Preto",
+            "km": 44615,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 69797.66,
+            "date": "2023-03-14 12:14:47",
+            "opcionais": [
+                "Multim\u00eddia",
+                "C\u00e2mera de r\u00e9",
+                "Vidros el\u00e9tricos",
+                "Banco de couro",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12346,
+            "marca": "Fiat",
+            "modelo": "Onix",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Branco",
+            "km": 40234,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 53516.61,
+            "date": "2024-05-07 05:39:02",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia",
+                "Ar condicionado",
+                "Airbag",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica"
+            ]
+        },
+        {
+            "id": 12347,
+            "marca": "Honda",
+            "modelo": "HB20",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Amarelo",
+            "km": 26986,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 138029.95,
+            "date": "2024-07-30 02:21:56",
+            "opcionais": [
+                "Banco de couro",
+                "C\u00e2mera de r\u00e9",
+                "Vidros el\u00e9tricos",
+                "Sensor de estacionamento",
+                "Airbag",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12348,
+            "marca": "Volkswagen",
+            "modelo": "208",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Amarelo",
+            "km": 94212,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 59771.96,
+            "date": "2023-12-31 09:39:13",
+            "opcionais": [
+                "Banco de couro",
+                "Airbag",
+                "Travas el\u00e9tricas",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12349,
+            "marca": "Fiat",
+            "modelo": "Polo",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Amarelo",
+            "km": 24483,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 92591.06,
+            "date": "2024-03-30 16:22:39",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Sensor de estacionamento",
+                "C\u00e2mera de r\u00e9",
+                "Freios ABS",
+                "Banco de couro"
+            ]
+        },
+        {
+            "id": 12350,
+            "marca": "Peugeot",
+            "modelo": "Uno",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Roxo",
+            "km": 65813,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 148559.34,
+            "date": "2023-01-30 09:51:19",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12351,
+            "marca": "Peugeot",
+            "modelo": "Polo",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Branco",
+            "km": 99524,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 60774.91,
+            "date": "2023-08-02 02:40:21",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Freios ABS",
+                "Multim\u00eddia",
+                "Sensor de estacionamento",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12352,
+            "marca": "Chevrolet",
+            "modelo": "Civic",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Cinza",
+            "km": 64772,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 102442.27,
+            "date": "2024-04-20 04:06:56",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Banco de couro"
+            ]
+        },
+        {
+            "id": 12353,
+            "marca": "Fiat",
+            "modelo": "Kicks",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Branco",
+            "km": 84945,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 72695.01,
+            "date": "2023-10-27 13:07:46",
+            "opcionais": [
+                "Ar condicionado",
+                "C\u00e2mera de r\u00e9",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12354,
+            "marca": "Chevrolet",
+            "modelo": "Kicks",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Azul",
+            "km": 26010,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 94908.31,
+            "date": "2024-07-22 05:20:40",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "C\u00e2mera de r\u00e9",
+                "Sensor de estacionamento",
+                "Freios ABS",
+                "Vidros el\u00e9tricos",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica"
+            ]
+        },
+        {
+            "id": 12355,
+            "marca": "Volkswagen",
+            "modelo": "Uno",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Branco",
+            "km": 69461,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 113937.54,
+            "date": "2024-04-30 21:55:36",
+            "opcionais": [
+                "Freios ABS",
+                "Ar condicionado",
+                "C\u00e2mera de r\u00e9",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12356,
+            "marca": "Nissan",
+            "modelo": "Kwid",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Prata",
+            "km": 21510,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 139014.3,
+            "date": "2024-04-25 02:57:46",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12357,
+            "marca": "Nissan",
+            "modelo": "208",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Cinza",
+            "km": 76758,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 141926.3,
+            "date": "2023-05-05 08:01:56",
+            "opcionais": [
+                "Banco de couro",
+                "C\u00e2mera de r\u00e9",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12358,
+            "marca": "Volkswagen",
+            "modelo": "Corolla",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Roxo",
+            "km": 12458,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 63770.52,
+            "date": "2023-04-25 00:01:54",
+            "opcionais": [
+                "Banco de couro",
+                "Travas el\u00e9tricas",
+                "C\u00e2mera de r\u00e9",
+                "Ar condicionado",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12359,
+            "marca": "Toyota",
+            "modelo": "Ka",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Amarelo",
+            "km": 5847,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 111503.77,
+            "date": "2023-09-13 14:33:02",
+            "opcionais": [
+                "Freios ABS",
+                "Sensor de estacionamento",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12360,
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Verde",
+            "km": 38216,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 105761.96,
+            "date": "2023-02-19 19:53:01",
+            "opcionais": [
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12361,
+            "marca": "Volkswagen",
+            "modelo": "Uno",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Vermelho",
+            "km": 26895,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 88144.27,
+            "date": "2024-03-10 15:54:05",
+            "opcionais": [
+                "Banco de couro",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12362,
+            "marca": "Ford",
+            "modelo": "Kicks",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Cinza",
+            "km": 48935,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 127342.29,
+            "date": "2023-03-09 22:20:10",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12363,
+            "marca": "Renault",
+            "modelo": "Civic",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Prata",
+            "km": 67706,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 149004.99,
+            "date": "2023-08-31 00:16:44",
+            "opcionais": [
+                "Ar condicionado",
+                "Airbag",
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12364,
+            "marca": "Chevrolet",
+            "modelo": "Uno",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Vermelho",
+            "km": 76831,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 120128.11,
+            "date": "2024-03-20 14:11:53",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12365,
+            "marca": "Ford",
+            "modelo": "Onix",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Marrom",
+            "km": 58658,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 75055.22,
+            "date": "2023-03-25 06:18:52",
+            "opcionais": [
+                "Ar condicionado",
+                "Freios ABS",
+                "C\u00e2mera de r\u00e9",
+                "Airbag",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12366,
+            "marca": "Nissan",
+            "modelo": "Kicks",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Cinza",
+            "km": 7486,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 134756.33,
+            "date": "2024-01-09 02:16:07",
+            "opcionais": [
+                "Ar condicionado",
+                "Airbag",
+                "Multim\u00eddia",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12367,
+            "marca": "Ford",
+            "modelo": "HB20",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Prata",
+            "km": 88228,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 70153.42,
+            "date": "2023-03-28 16:18:36",
+            "opcionais": [
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Freios ABS",
+                "Vidros el\u00e9tricos",
+                "Multim\u00eddia",
+                "Banco de couro"
+            ]
+        },
+        {
+            "id": 12368,
+            "marca": "Volkswagen",
+            "modelo": "Kicks",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Vermelho",
+            "km": 83453,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 130327.81,
+            "date": "2024-02-04 13:13:47",
+            "opcionais": [
+                "Banco de couro",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12369,
+            "marca": "Honda",
+            "modelo": "Ka",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Prata",
+            "km": 22983,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 111450.92,
+            "date": "2023-08-06 20:40:56",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9",
+                "Ar condicionado",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12370,
+            "marca": "Ford",
+            "modelo": "Onix",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Marrom",
+            "km": 93758,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 75375.24,
+            "date": "2023-02-20 05:09:17",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Freios ABS",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12371,
+            "marca": "Fiat",
+            "modelo": "Civic",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Verde",
+            "km": 46796,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 93546.61,
+            "date": "2023-04-26 04:14:00",
+            "opcionais": [
+                "Multim\u00eddia",
+                "Freios ABS",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Ar condicionado",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12372,
+            "marca": "Chevrolet",
+            "modelo": "Corolla",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Verde",
+            "km": 67879,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 126035.9,
+            "date": "2023-04-25 00:00:30",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Freios ABS",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12373,
+            "marca": "Hyundai",
+            "modelo": "Onix",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Amarelo",
+            "km": 83099,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 113545.62,
+            "date": "2023-08-17 21:36:00",
+            "opcionais": [
+                "Airbag",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12374,
+            "marca": "Renault",
+            "modelo": "HB20",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Prata",
+            "km": 6544,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 123523.69,
+            "date": "2024-02-16 06:28:52",
+            "opcionais": [
+                "Multim\u00eddia",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12375,
+            "marca": "Renault",
+            "modelo": "208",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Branco",
+            "km": 24114,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 93013.75,
+            "date": "2024-02-29 13:05:18",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Ar condicionado",
+                "C\u00e2mera de r\u00e9",
+                "Travas el\u00e9tricas",
+                "Banco de couro",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12376,
+            "marca": "Chevrolet",
+            "modelo": "208",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Prata",
+            "km": 29951,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 61696.85,
+            "date": "2023-11-13 03:09:03",
+            "opcionais": [
+                "Airbag",
+                "Banco de couro",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12377,
+            "marca": "Fiat",
+            "modelo": "Civic",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Vermelho",
+            "km": 93054,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 124306.7,
+            "date": "2024-07-31 03:23:51",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Freios ABS",
+                "Banco de couro"
+            ]
+        },
+        {
+            "id": 12378,
+            "marca": "Toyota",
+            "modelo": "208",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Preto",
+            "km": 68347,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 98674.14,
+            "date": "2023-01-06 07:02:24",
+            "opcionais": [
+                "Banco de couro",
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12379,
+            "marca": "Hyundai",
+            "modelo": "Ka",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Roxo",
+            "km": 56193,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 84287.09,
+            "date": "2024-06-16 16:48:55",
+            "opcionais": [
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12380,
+            "marca": "Renault",
+            "modelo": "208",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Azul",
+            "km": 47390,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 116236.01,
+            "date": "2024-05-04 05:24:20",
+            "opcionais": [
+                "Freios ABS",
+                "Banco de couro",
+                "Ar condicionado",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica"
+            ]
+        },
+        {
+            "id": 12381,
+            "marca": "Toyota",
+            "modelo": "Kwid",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Prata",
+            "km": 63246,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 59788.51,
+            "date": "2023-06-15 23:39:39",
+            "opcionais": [
+                "Airbag",
+                "Freios ABS",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12382,
+            "marca": "Chevrolet",
+            "modelo": "208",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Marrom",
+            "km": 67253,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 60867.92,
+            "date": "2024-06-08 09:48:34",
+            "opcionais": [
+                "Banco de couro",
+                "Vidros el\u00e9tricos",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12383,
+            "marca": "Ford",
+            "modelo": "Kwid",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Branco",
+            "km": 21718,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 61056.67,
+            "date": "2023-09-27 20:44:33",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia",
+                "C\u00e2mera de r\u00e9",
+                "Freios ABS",
+                "Banco de couro",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12384,
+            "marca": "Chevrolet",
+            "modelo": "Polo",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Preto",
+            "km": 20322,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 121201.71,
+            "date": "2023-10-30 08:10:27",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Freios ABS",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Travas el\u00e9tricas",
+                "Airbag",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12385,
+            "marca": "Fiat",
+            "modelo": "Polo",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Roxo",
+            "km": 20343,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 73424.54,
+            "date": "2023-05-28 11:44:06",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Airbag",
+                "Sensor de estacionamento",
+                "Vidros el\u00e9tricos",
+                "Multim\u00eddia",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12386,
+            "marca": "Volkswagen",
+            "modelo": "Civic",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Prata",
+            "km": 92390,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 86820.53,
+            "date": "2024-03-02 02:31:18",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia",
+                "Airbag",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12387,
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Verde",
+            "km": 10493,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 113285.86,
+            "date": "2024-07-02 01:41:29",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9",
+                "Sensor de estacionamento",
+                "Airbag",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12388,
+            "marca": "Nissan",
+            "modelo": "Civic",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Azul",
+            "km": 84825,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 122209.73,
+            "date": "2023-11-01 23:51:17",
+            "opcionais": [
+                "Airbag",
+                "Ar condicionado",
+                "Banco de couro"
+            ]
+        },
+        {
+            "id": 12389,
+            "marca": "Peugeot",
+            "modelo": "Kwid",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Prata",
+            "km": 99604,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 51895.05,
+            "date": "2023-01-16 00:00:13",
+            "opcionais": [
+                "Banco de couro",
+                "C\u00e2mera de r\u00e9",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12390,
+            "marca": "Nissan",
+            "modelo": "Kwid",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Branco",
+            "km": 9202,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 117044.53,
+            "date": "2023-06-07 09:34:45",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Banco de couro",
+                "Vidros el\u00e9tricos",
+                "Freios ABS",
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12391,
+            "marca": "Toyota",
+            "modelo": "Uno",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Verde",
+            "km": 33140,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 59734.51,
+            "date": "2024-02-20 14:20:39",
+            "opcionais": [
+                "Banco de couro",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12392,
+            "marca": "Volkswagen",
+            "modelo": "Ka",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Preto",
+            "km": 60682,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 120053.37,
+            "date": "2024-07-13 23:03:33",
+            "opcionais": [
+                "Freios ABS",
+                "C\u00e2mera de r\u00e9",
+                "Ar condicionado",
+                "Multim\u00eddia",
+                "Airbag",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12393,
+            "marca": "Toyota",
+            "modelo": "Uno",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Roxo",
+            "km": 58141,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 58777.92,
+            "date": "2023-08-20 06:00:35",
+            "opcionais": [
+                "Multim\u00eddia",
+                "Airbag",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12394,
+            "marca": "Nissan",
+            "modelo": "Corolla",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Prata",
+            "km": 75875,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 120131.54,
+            "date": "2023-08-02 15:17:28",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9",
+                "Ar condicionado",
+                "Freios ABS",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12395,
+            "marca": "Honda",
+            "modelo": "Kicks",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Prata",
+            "km": 47818,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 103307.6,
+            "date": "2024-07-22 06:59:07",
+            "opcionais": [
+                "Ar condicionado",
+                "Airbag",
+                "Vidros el\u00e9tricos",
+                "Freios ABS",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12396,
+            "marca": "Fiat",
+            "modelo": "Uno",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Branco",
+            "km": 25794,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 62532.65,
+            "date": "2023-10-30 15:47:16",
+            "opcionais": [
+                "Banco de couro",
+                "Freios ABS",
+                "Airbag",
+                "Ar condicionado",
+                "C\u00e2mera de r\u00e9",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12397,
+            "marca": "Hyundai",
+            "modelo": "HB20",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Amarelo",
+            "km": 20141,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 54283.55,
+            "date": "2023-05-11 10:34:53",
+            "opcionais": [
+                "Banco de couro",
+                "Freios ABS",
+                "Sensor de estacionamento",
+                "Multim\u00eddia",
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12398,
+            "marca": "Renault",
+            "modelo": "Kwid",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Preto",
+            "km": 48752,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 63551.49,
+            "date": "2024-06-27 22:22:56",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Ar condicionado",
+                "Banco de couro"
+            ]
+        },
+        {
+            "id": 12399,
+            "marca": "Toyota",
+            "modelo": "208",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Branco",
+            "km": 68832,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 51020.79,
+            "date": "2023-02-26 09:00:50",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Banco de couro",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12400,
+            "marca": "Peugeot",
+            "modelo": "HB20",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Branco",
+            "km": 90718,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 69223.66,
+            "date": "2023-11-11 19:21:33",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Airbag",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12401,
+            "marca": "Chevrolet",
+            "modelo": "HB20",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Roxo",
+            "km": 42488,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 138140.76,
+            "date": "2023-02-25 21:31:41",
+            "opcionais": [
+                "Banco de couro",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Travas el\u00e9tricas",
+                "Ar condicionado",
+                "Freios ABS",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12402,
+            "marca": "Ford",
+            "modelo": "Onix",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Marrom",
+            "km": 12372,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 68689.94,
+            "date": "2023-04-18 01:47:44",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Banco de couro",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12403,
+            "marca": "Peugeot",
+            "modelo": "Civic",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Vermelho",
+            "km": 99044,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 134987.91,
+            "date": "2023-05-20 14:35:59",
+            "opcionais": [
+                "Airbag",
+                "Vidros el\u00e9tricos",
+                "C\u00e2mera de r\u00e9",
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12404,
+            "marca": "Volkswagen",
+            "modelo": "208",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Branco",
+            "km": 12965,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 86743.55,
+            "date": "2023-07-03 21:52:39",
+            "opcionais": [
+                "Multim\u00eddia",
+                "Airbag",
+                "Banco de couro",
+                "C\u00e2mera de r\u00e9",
+                "Travas el\u00e9tricas",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12405,
+            "marca": "Chevrolet",
+            "modelo": "Ka",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Prata",
+            "km": 71097,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 105115.14,
+            "date": "2024-06-30 16:29:37",
+            "opcionais": [
+                "Multim\u00eddia",
+                "Airbag",
+                "C\u00e2mera de r\u00e9",
+                "Freios ABS",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12406,
+            "marca": "Chevrolet",
+            "modelo": "Uno",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Cinza",
+            "km": 98317,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 54839.15,
+            "date": "2024-06-05 19:29:42",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12407,
+            "marca": "Renault",
+            "modelo": "Uno",
+            "ano": 2022,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Prata",
+            "km": 11033,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 69254.5,
+            "date": "2024-07-10 01:22:59",
+            "opcionais": [
+                "Multim\u00eddia",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12408,
+            "marca": "Chevrolet",
+            "modelo": "Uno",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Roxo",
+            "km": 14098,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 122784.87,
+            "date": "2023-11-24 13:54:52",
+            "opcionais": [
+                "Banco de couro",
+                "C\u00e2mera de r\u00e9",
+                "Travas el\u00e9tricas",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12409,
+            "marca": "Chevrolet",
+            "modelo": "Kicks",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Cinza",
+            "km": 35185,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 134901.21,
+            "date": "2023-06-16 05:30:07",
+            "opcionais": [
+                "Ar condicionado",
+                "Freios ABS",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12410,
+            "marca": "Toyota",
+            "modelo": "Kwid",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Amarelo",
+            "km": 39519,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 88121.82,
+            "date": "2023-01-02 15:22:56",
+            "opcionais": [
+                "Banco de couro",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Freios ABS",
+                "Ar condicionado",
+                "Multim\u00eddia",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12411,
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Verde",
+            "km": 77608,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 67640.6,
+            "date": "2024-05-06 00:51:49",
+            "opcionais": [
+                "Ar condicionado",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12412,
+            "marca": "Fiat",
+            "modelo": "Ka",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Branco",
+            "km": 75955,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 56096.71,
+            "date": "2023-09-04 16:39:22",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12413,
+            "marca": "Honda",
+            "modelo": "208",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Vermelho",
+            "km": 76456,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 149755.9,
+            "date": "2023-04-15 09:54:55",
+            "opcionais": [
+                "Freios ABS",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12414,
+            "marca": "Renault",
+            "modelo": "Corolla",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Preto",
+            "km": 28117,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 100948.17,
+            "date": "2023-12-16 03:20:26",
+            "opcionais": [
+                "Banco de couro",
+                "C\u00e2mera de r\u00e9",
+                "Multim\u00eddia",
+                "Vidros el\u00e9tricos",
+                "Travas el\u00e9tricas",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12415,
+            "marca": "Honda",
+            "modelo": "Uno",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Prata",
+            "km": 77893,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 92178.64,
+            "date": "2023-11-05 14:57:44",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Ar condicionado",
+                "Multim\u00eddia",
+                "Airbag",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12416,
+            "marca": "Fiat",
+            "modelo": "HB20",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Prata",
+            "km": 56894,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 128188.66,
+            "date": "2023-06-16 06:11:19",
+            "opcionais": [
+                "Airbag",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Vidros el\u00e9tricos",
+                "Multim\u00eddia",
+                "Banco de couro",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12417,
+            "marca": "Renault",
+            "modelo": "Civic",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Amarelo",
+            "km": 75562,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 98055.26,
+            "date": "2023-06-03 17:04:48",
+            "opcionais": [
+                "Ar condicionado",
+                "Airbag",
+                "Vidros el\u00e9tricos",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12418,
+            "marca": "Fiat",
+            "modelo": "HB20",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Roxo",
+            "km": 93840,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 51533.98,
+            "date": "2023-06-05 06:19:23",
+            "opcionais": [
+                "Banco de couro",
+                "Ar condicionado",
+                "C\u00e2mera de r\u00e9",
+                "Freios ABS",
+                "Travas el\u00e9tricas"
+            ]
+        },
+        {
+            "id": 12419,
+            "marca": "Honda",
+            "modelo": "Onix",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Preto",
+            "km": 20274,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 115844.7,
+            "date": "2023-06-29 11:18:59",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Freios ABS",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12420,
+            "marca": "Hyundai",
+            "modelo": "Uno",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Preto",
+            "km": 85636,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 90802.94,
+            "date": "2024-01-08 00:44:25",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12421,
+            "marca": "Volkswagen",
+            "modelo": "Kicks",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Azul",
+            "km": 91438,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 122669.71,
+            "date": "2023-02-27 22:40:15",
+            "opcionais": [
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Travas el\u00e9tricas",
+                "Ar condicionado",
+                "Banco de couro",
+                "Airbag",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12422,
+            "marca": "Chevrolet",
+            "modelo": "Polo",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Preto",
+            "km": 86996,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 133840.52,
+            "date": "2023-03-01 09:18:51",
+            "opcionais": [
+                "Ar condicionado",
+                "Airbag",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12423,
+            "marca": "Volkswagen",
+            "modelo": "Kicks",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Branco",
+            "km": 42082,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 58597.4,
+            "date": "2024-06-09 13:57:49",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Vidros el\u00e9tricos",
+                "Freios ABS"
+            ]
+        },
+        {
+            "id": 12424,
+            "marca": "Volkswagen",
+            "modelo": "Ka",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Roxo",
+            "km": 85515,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 87084.57,
+            "date": "2023-01-19 16:29:04",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Freios ABS",
+                "Banco de couro",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12425,
+            "marca": "Hyundai",
+            "modelo": "Polo",
+            "ano": 2019,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Amarelo",
+            "km": 48412,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 121253.82,
+            "date": "2023-02-27 23:21:28",
+            "opcionais": [
+                "Banco de couro",
+                "Vidros el\u00e9tricos",
+                "Sensor de estacionamento",
+                "Airbag",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12426,
+            "marca": "Renault",
+            "modelo": "Onix",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Cinza",
+            "km": 24290,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 95705.05,
+            "date": "2024-06-02 18:32:28",
+            "opcionais": [
+                "Airbag",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12427,
+            "marca": "Fiat",
+            "modelo": "Ka",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Cinza",
+            "km": 44843,
+            "combustivel": "Gasolina",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 64192.83,
+            "date": "2024-03-07 02:01:08",
+            "opcionais": [
+                "Banco de couro",
+                "Multim\u00eddia",
+                "Freios ABS",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "C\u00e2mera de r\u00e9",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12428,
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Preto",
+            "km": 7845,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 87189.96,
+            "date": "2023-01-12 16:00:29",
+            "opcionais": [
+                "Ar condicionado",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Airbag",
+                "Banco de couro",
+                "Travas el\u00e9tricas",
+                "C\u00e2mera de r\u00e9"
+            ]
+        },
+        {
+            "id": 12429,
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Verde",
+            "km": 5230,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 74930.16,
+            "date": "2023-12-06 09:28:22",
+            "opcionais": [
+                "Sensor de estacionamento",
+                "Vidros el\u00e9tricos",
+                "Travas el\u00e9tricas",
+                "Airbag",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica"
+            ]
+        },
+        {
+            "id": 12430,
+            "marca": "Fiat",
+            "modelo": "Ka",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Verde",
+            "km": 3598,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 117966.93,
+            "date": "2023-05-21 16:34:22",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12431,
+            "marca": "Volkswagen",
+            "modelo": "HB20",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Roxo",
+            "km": 65055,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 137382.19,
+            "date": "2024-02-11 19:59:59",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Sensor de estacionamento",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12432,
+            "marca": "Ford",
+            "modelo": "Civic",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Cinza",
+            "km": 66714,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 93117.35,
+            "date": "2024-05-02 04:33:00",
+            "opcionais": [
+                "Airbag",
+                "Travas el\u00e9tricas",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12433,
+            "marca": "Chevrolet",
+            "modelo": "208",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Roxo",
+            "km": 72765,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 95491.58,
+            "date": "2023-03-14 12:34:08",
+            "opcionais": [
+                "Banco de couro",
+                "Airbag",
+                "Multim\u00eddia",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12434,
+            "marca": "Ford",
+            "modelo": "Kicks",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 3",
+            "cor": "Branco",
+            "km": 56752,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 109767.89,
+            "date": "2023-12-06 07:32:25",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Freios ABS",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12435,
+            "marca": "Fiat",
+            "modelo": "Uno",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Verde",
+            "km": 77791,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 103016.5,
+            "date": "2024-04-27 07:58:37",
+            "opcionais": [
+                "Freios ABS",
+                "Sensor de estacionamento"
+            ]
+        },
+        {
+            "id": 12436,
+            "marca": "Renault",
+            "modelo": "Polo",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 4",
+            "cor": "Cinza",
+            "km": 48583,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 105571.49,
+            "date": "2024-05-21 17:02:06",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Multim\u00eddia",
+                "Ar condicionado",
+                "Freios ABS",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12437,
+            "marca": "Fiat",
+            "modelo": "Onix",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Preto",
+            "km": 46775,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 108220.51,
+            "date": "2023-10-06 03:05:21",
+            "opcionais": [
+                "Freios ABS",
+                "Airbag",
+                "Sensor de estacionamento",
+                "Vidros el\u00e9tricos",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Ar condicionado"
+            ]
+        },
+        {
+            "id": 12438,
+            "marca": "Chevrolet",
+            "modelo": "Ka",
+            "ano": 2024,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Roxo",
+            "km": 23784,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 141626.89,
+            "date": "2024-04-15 06:29:10",
+            "opcionais": [
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Travas el\u00e9tricas",
+                "Vidros el\u00e9tricos",
+                "Freios ABS",
+                "Banco de couro",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12439,
+            "marca": "Renault",
+            "modelo": "Kicks",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Branco",
+            "km": 6583,
+            "combustivel": "Flex",
+            "cambio": "Autom\u00e1tico",
+            "portas": 4,
+            "preco": 108073.62,
+            "date": "2024-04-24 17:35:55",
+            "opcionais": [
+                "C\u00e2mera de r\u00e9",
+                "Sensor de estacionamento",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Multim\u00eddia",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12440,
+            "marca": "Ford",
+            "modelo": "Corolla",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Amarelo",
+            "km": 99503,
+            "combustivel": "Diesel",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 142434.64,
+            "date": "2024-04-27 08:07:17",
+            "opcionais": [
+                "Vidros el\u00e9tricos",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Freios ABS",
+                "Multim\u00eddia",
+                "Travas el\u00e9tricas",
+                "Airbag"
+            ]
+        },
+        {
+            "id": 12441,
+            "marca": "Chevrolet",
+            "modelo": "Civic",
+            "ano": 2023,
+            "versao": "Vers\u00e3o 5",
+            "cor": "Cinza",
+            "km": 95276,
+            "combustivel": "Diesel",
+            "cambio": "Autom\u00e1tico",
+            "portas": 2,
+            "preco": 128180.8,
+            "date": "2023-12-16 11:45:37",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Airbag",
+                "C\u00e2mera de r\u00e9",
+                "Banco de couro",
+                "Sensor de estacionamento",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica"
+            ]
+        },
+        {
+            "id": 12442,
+            "marca": "Renault",
+            "modelo": "Polo",
+            "ano": 2018,
+            "versao": "Vers\u00e3o 1",
+            "cor": "Amarelo",
+            "km": 30853,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 76373.84,
+            "date": "2023-12-27 21:09:19",
+            "opcionais": [
+                "Multim\u00eddia",
+                "C\u00e2mera de r\u00e9",
+                "Travas el\u00e9tricas",
+                "Sensor de estacionamento",
+                "Vidros el\u00e9tricos"
+            ]
+        },
+        {
+            "id": 12443,
+            "marca": "Renault",
+            "modelo": "Ka",
+            "ano": 2020,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Vermelho",
+            "km": 45802,
+            "combustivel": "El\u00e9trico",
+            "cambio": "Manual",
+            "portas": 2,
+            "preco": 115010.47,
+            "date": "2023-04-18 06:03:08",
+            "opcionais": [
+                "Travas el\u00e9tricas",
+                "Airbag",
+                "Banco de couro",
+                "Multim\u00eddia"
+            ]
+        },
+        {
+            "id": 12444,
+            "marca": "Honda",
+            "modelo": "Corolla",
+            "ano": 2021,
+            "versao": "Vers\u00e3o 2",
+            "cor": "Preto",
+            "km": 97305,
+            "combustivel": "Flex",
+            "cambio": "Manual",
+            "portas": 4,
+            "preco": 101522.79,
+            "date": "2024-06-20 15:13:48",
+            "opcionais": [
+                "Banco de couro",
+                "Freios ABS",
+                "Sensor de estacionamento",
+                "Dire\u00e7\u00e3o hidr\u00e1ulica",
+                "Travas el\u00e9tricas"
+            ]
+        }
+    ]
+}

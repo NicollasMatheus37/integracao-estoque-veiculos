@@ -1,18 +1,18 @@
 <div class="card card-side w-full card-compact bg-base-100 shadow">
     <div
-        class="flex justify-center items-center bg-primary text-primary-content p-6 rounded-l-2xl">
-        <figure class="text-8xl flex flex-wrap">
+        class="flex justify-center items-center bg-primary text-primary-content p-6 px-10 rounded-l-2xl">
+        <div class="text-8xl">
             <i class="fa-solid fa-car-rear text-center"></i>
-            <p class="w-full text-base text-center">{{$vehicle->color}}</p>
-        </figure>
+            <p class="text-base text-center">{{$vehicle->color}}</p>
+        </div>
+    </div>
+    <div class="card-body">
         <span class="absolute right-3 top-1 font-mono text-xs text-base-300">
             #{{$vehicle->register_id}}
         </span>
         <span class="absolute right-3 bottom-1 font-mono text-xs text-neutral">
             {{$vehicle->supplier_name}}
         </span>
-    </div>
-    <div class="card-body">
         <span class="card-title">{{$vehicle->brand}} {{$vehicle->model}} - {{$vehicle->year}}</span>
         <span>
             {{$vehicle->version}}, {{$vehicle->transmission}}, {{$vehicle->fuel}}

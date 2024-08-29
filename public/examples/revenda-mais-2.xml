@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estoque>
+    <veiculos>
+        <veiculo>
+            <codigoVeiculo>12345</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>208</modelo>
+            <ano>2023</ano>
+            <versao>Versão 1</versao>
+            <cor>Preto</cor>
+            <quilometragem>44615</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>69797.66</precoVenda>
+            <ultimaAtualizacao>14/03/2023 12:14</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12346</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Onix</modelo>
+            <ano>2021</ano>
+            <versao>Versão 5</versao>
+            <cor>Branco</cor>
+            <quilometragem>40234</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>53516.61</precoVenda>
+            <ultimaAtualizacao>07/05/2024 05:39</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Direção hidráulica</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12347</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>HB20</modelo>
+            <ano>2019</ano>
+            <versao>Versão 5</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>26986</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>138029.95</precoVenda>
+            <ultimaAtualizacao>30/07/2024 02:21</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12348</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>208</modelo>
+            <ano>2018</ano>
+            <versao>Versão 3</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>94212</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>59771.96</precoVenda>
+            <ultimaAtualizacao>31/12/2023 09:39</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12349</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Polo</modelo>
+            <ano>2018</ano>
+            <versao>Versão 3</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>24483</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>92591.06</precoVenda>
+            <ultimaAtualizacao>30/03/2024 16:22</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Banco de couro</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12350</codigoVeiculo>
+            <marca>Peugeot</marca>
+            <modelo>Uno</modelo>
+            <ano>2023</ano>
+            <versao>Versão 3</versao>
+            <cor>Roxo</cor>
+            <quilometragem>65813</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>148559.34</precoVenda>
+            <ultimaAtualizacao>30/01/2023 09:51</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12351</codigoVeiculo>
+            <marca>Peugeot</marca>
+            <modelo>Polo</modelo>
+            <ano>2020</ano>
+            <versao>Versão 4</versao>
+            <cor>Branco</cor>
+            <quilometragem>99524</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>60774.91</precoVenda>
+            <ultimaAtualizacao>02/08/2023 02:40</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12352</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Civic</modelo>
+            <ano>2021</ano>
+            <versao>Versão 1</versao>
+            <cor>Cinza</cor>
+            <quilometragem>64772</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>102442.27</precoVenda>
+            <ultimaAtualizacao>20/04/2024 04:06</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Banco de couro</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12353</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Kicks</modelo>
+            <ano>2019</ano>
+            <versao>Versão 1</versao>
+            <cor>Branco</cor>
+            <quilometragem>84945</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>72695.01</precoVenda>
+            <ultimaAtualizacao>27/10/2023 13:07</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12354</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Kicks</modelo>
+            <ano>2023</ano>
+            <versao>Versão 3</versao>
+            <cor>Azul</cor>
+            <quilometragem>26010</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>94908.31</precoVenda>
+            <ultimaAtualizacao>22/07/2024 05:20</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Direção hidráulica</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12355</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Uno</modelo>
+            <ano>2018</ano>
+            <versao>Versão 5</versao>
+            <cor>Branco</cor>
+            <quilometragem>69461</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>113937.54</precoVenda>
+            <ultimaAtualizacao>30/04/2024 21:55</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12356</codigoVeiculo>
+            <marca>Nissan</marca>
+            <modelo>Kwid</modelo>
+            <ano>2021</ano>
+            <versao>Versão 5</versao>
+            <cor>Prata</cor>
+            <quilometragem>21510</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>139014.30</precoVenda>
+            <ultimaAtualizacao>25/04/2024 02:57</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12357</codigoVeiculo>
+            <marca>Nissan</marca>
+            <modelo>208</modelo>
+            <ano>2021</ano>
+            <versao>Versão 5</versao>
+            <cor>Cinza</cor>
+            <quilometragem>76758</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>141926.30</precoVenda>
+            <ultimaAtualizacao>05/05/2023 08:01</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12358</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Corolla</modelo>
+            <ano>2020</ano>
+            <versao>Versão 3</versao>
+            <cor>Roxo</cor>
+            <quilometragem>12458</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>63770.52</precoVenda>
+            <ultimaAtualizacao>25/04/2023 00:01</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12359</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>Ka</modelo>
+            <ano>2020</ano>
+            <versao>Versão 5</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>5847</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>111503.77</precoVenda>
+            <ultimaAtualizacao>13/09/2023 14:33</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12360</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>Corolla</modelo>
+            <ano>2021</ano>
+            <versao>Versão 5</versao>
+            <cor>Verde</cor>
+            <quilometragem>38216</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>105761.96</precoVenda>
+            <ultimaAtualizacao>19/02/2023 19:53</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12361</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Uno</modelo>
+            <ano>2018</ano>
+            <versao>Versão 5</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>26895</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>88144.27</precoVenda>
+            <ultimaAtualizacao>10/03/2024 15:54</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12362</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Kicks</modelo>
+            <ano>2023</ano>
+            <versao>Versão 1</versao>
+            <cor>Cinza</cor>
+            <quilometragem>48935</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>127342.29</precoVenda>
+            <ultimaAtualizacao>09/03/2023 22:20</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12363</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Civic</modelo>
+            <ano>2022</ano>
+            <versao>Versão 2</versao>
+            <cor>Prata</cor>
+            <quilometragem>67706</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>149004.99</precoVenda>
+            <ultimaAtualizacao>31/08/2023 00:16</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12364</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Uno</modelo>
+            <ano>2018</ano>
+            <versao>Versão 1</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>76831</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>120128.11</precoVenda>
+            <ultimaAtualizacao>20/03/2024 14:11</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12365</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Onix</modelo>
+            <ano>2023</ano>
+            <versao>Versão 3</versao>
+            <cor>Marrom</cor>
+            <quilometragem>58658</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>75055.22</precoVenda>
+            <ultimaAtualizacao>25/03/2023 06:18</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12366</codigoVeiculo>
+            <marca>Nissan</marca>
+            <modelo>Kicks</modelo>
+            <ano>2021</ano>
+            <versao>Versão 3</versao>
+            <cor>Cinza</cor>
+            <quilometragem>7486</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>134756.33</precoVenda>
+            <ultimaAtualizacao>09/01/2024 02:16</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12367</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>HB20</modelo>
+            <ano>2019</ano>
+            <versao>Versão 5</versao>
+            <cor>Prata</cor>
+            <quilometragem>88228</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>70153.42</precoVenda>
+            <ultimaAtualizacao>28/03/2023 16:18</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Banco de couro</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12368</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Kicks</modelo>
+            <ano>2022</ano>
+            <versao>Versão 2</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>83453</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>130327.81</precoVenda>
+            <ultimaAtualizacao>04/02/2024 13:13</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12369</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>Ka</modelo>
+            <ano>2018</ano>
+            <versao>Versão 2</versao>
+            <cor>Prata</cor>
+            <quilometragem>22983</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>111450.92</precoVenda>
+            <ultimaAtualizacao>06/08/2023 20:40</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12370</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Onix</modelo>
+            <ano>2024</ano>
+            <versao>Versão 5</versao>
+            <cor>Marrom</cor>
+            <quilometragem>93758</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>75375.24</precoVenda>
+            <ultimaAtualizacao>20/02/2023 05:09</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12371</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Civic</modelo>
+            <ano>2018</ano>
+            <versao>Versão 2</versao>
+            <cor>Verde</cor>
+            <quilometragem>46796</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>93546.61</precoVenda>
+            <ultimaAtualizacao>26/04/2023 04:14</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12372</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Corolla</modelo>
+            <ano>2021</ano>
+            <versao>Versão 3</versao>
+            <cor>Verde</cor>
+            <quilometragem>67879</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>126035.90</precoVenda>
+            <ultimaAtualizacao>25/04/2023 00:00</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12373</codigoVeiculo>
+            <marca>Hyundai</marca>
+            <modelo>Onix</modelo>
+            <ano>2022</ano>
+            <versao>Versão 2</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>83099</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>113545.62</precoVenda>
+            <ultimaAtualizacao>17/08/2023 21:36</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12374</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>HB20</modelo>
+            <ano>2024</ano>
+            <versao>Versão 1</versao>
+            <cor>Prata</cor>
+            <quilometragem>6544</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>123523.69</precoVenda>
+            <ultimaAtualizacao>16/02/2024 06:28</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12375</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>208</modelo>
+            <ano>2022</ano>
+            <versao>Versão 3</versao>
+            <cor>Branco</cor>
+            <quilometragem>24114</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>93013.75</precoVenda>
+            <ultimaAtualizacao>29/02/2024 13:05</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12376</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>208</modelo>
+            <ano>2018</ano>
+            <versao>Versão 2</versao>
+            <cor>Prata</cor>
+            <quilometragem>29951</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>61696.85</precoVenda>
+            <ultimaAtualizacao>13/11/2023 03:09</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12377</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Civic</modelo>
+            <ano>2022</ano>
+            <versao>Versão 3</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>93054</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>124306.70</precoVenda>
+            <ultimaAtualizacao>31/07/2024 03:23</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Banco de couro</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12378</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>208</modelo>
+            <ano>2024</ano>
+            <versao>Versão 5</versao>
+            <cor>Preto</cor>
+            <quilometragem>68347</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>98674.14</precoVenda>
+            <ultimaAtualizacao>06/01/2023 07:02</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12379</codigoVeiculo>
+            <marca>Hyundai</marca>
+            <modelo>Ka</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Roxo</cor>
+            <quilometragem>56193</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>84287.09</precoVenda>
+            <ultimaAtualizacao>16/06/2024 16:48</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12380</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>208</modelo>
+            <ano>2018</ano>
+            <versao>Versão 5</versao>
+            <cor>Azul</cor>
+            <quilometragem>47390</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>116236.01</precoVenda>
+            <ultimaAtualizacao>04/05/2024 05:24</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Direção hidráulica</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12381</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>Kwid</modelo>
+            <ano>2020</ano>
+            <versao>Versão 4</versao>
+            <cor>Prata</cor>
+            <quilometragem>63246</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>59788.51</precoVenda>
+            <ultimaAtualizacao>15/06/2023 23:39</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12382</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>208</modelo>
+            <ano>2021</ano>
+            <versao>Versão 2</versao>
+            <cor>Marrom</cor>
+            <quilometragem>67253</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>60867.92</precoVenda>
+            <ultimaAtualizacao>08/06/2024 09:48</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12383</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Kwid</modelo>
+            <ano>2023</ano>
+            <versao>Versão 2</versao>
+            <cor>Branco</cor>
+            <quilometragem>21718</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>61056.67</precoVenda>
+            <ultimaAtualizacao>27/09/2023 20:44</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12384</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Polo</modelo>
+            <ano>2020</ano>
+            <versao>Versão 4</versao>
+            <cor>Preto</cor>
+            <quilometragem>20322</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>121201.71</precoVenda>
+            <ultimaAtualizacao>30/10/2023 08:10</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12385</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Polo</modelo>
+            <ano>2020</ano>
+            <versao>Versão 5</versao>
+            <cor>Roxo</cor>
+            <quilometragem>20343</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>73424.54</precoVenda>
+            <ultimaAtualizacao>28/05/2023 11:44</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12386</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Civic</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Prata</cor>
+            <quilometragem>92390</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>86820.53</precoVenda>
+            <ultimaAtualizacao>02/03/2024 02:31</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12387</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Onix</modelo>
+            <ano>2024</ano>
+            <versao>Versão 3</versao>
+            <cor>Verde</cor>
+            <quilometragem>10493</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>113285.86</precoVenda>
+            <ultimaAtualizacao>02/07/2024 01:41</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12388</codigoVeiculo>
+            <marca>Nissan</marca>
+            <modelo>Civic</modelo>
+            <ano>2020</ano>
+            <versao>Versão 1</versao>
+            <cor>Azul</cor>
+            <quilometragem>84825</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>122209.73</precoVenda>
+            <ultimaAtualizacao>01/11/2023 23:51</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Banco de couro</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12389</codigoVeiculo>
+            <marca>Peugeot</marca>
+            <modelo>Kwid</modelo>
+            <ano>2020</ano>
+            <versao>Versão 3</versao>
+            <cor>Prata</cor>
+            <quilometragem>99604</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>51895.05</precoVenda>
+            <ultimaAtualizacao>16/01/2023 00:00</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12390</codigoVeiculo>
+            <marca>Nissan</marca>
+            <modelo>Kwid</modelo>
+            <ano>2024</ano>
+            <versao>Versão 3</versao>
+            <cor>Branco</cor>
+            <quilometragem>9202</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>117044.53</precoVenda>
+            <ultimaAtualizacao>07/06/2023 09:34</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12391</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>Uno</modelo>
+            <ano>2024</ano>
+            <versao>Versão 2</versao>
+            <cor>Verde</cor>
+            <quilometragem>33140</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>59734.51</precoVenda>
+            <ultimaAtualizacao>20/02/2024 14:20</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12392</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Ka</modelo>
+            <ano>2023</ano>
+            <versao>Versão 5</versao>
+            <cor>Preto</cor>
+            <quilometragem>60682</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>120053.37</precoVenda>
+            <ultimaAtualizacao>13/07/2024 23:03</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12393</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>Uno</modelo>
+            <ano>2024</ano>
+            <versao>Versão 2</versao>
+            <cor>Roxo</cor>
+            <quilometragem>58141</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>58777.92</precoVenda>
+            <ultimaAtualizacao>20/08/2023 06:00</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12394</codigoVeiculo>
+            <marca>Nissan</marca>
+            <modelo>Corolla</modelo>
+            <ano>2018</ano>
+            <versao>Versão 4</versao>
+            <cor>Prata</cor>
+            <quilometragem>75875</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>120131.54</precoVenda>
+            <ultimaAtualizacao>02/08/2023 15:17</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12395</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>Kicks</modelo>
+            <ano>2020</ano>
+            <versao>Versão 5</versao>
+            <cor>Prata</cor>
+            <quilometragem>47818</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>103307.60</precoVenda>
+            <ultimaAtualizacao>22/07/2024 06:59</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12396</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Uno</modelo>
+            <ano>2021</ano>
+            <versao>Versão 1</versao>
+            <cor>Branco</cor>
+            <quilometragem>25794</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>62532.65</precoVenda>
+            <ultimaAtualizacao>30/10/2023 15:47</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12397</codigoVeiculo>
+            <marca>Hyundai</marca>
+            <modelo>HB20</modelo>
+            <ano>2019</ano>
+            <versao>Versão 2</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>20141</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>54283.55</precoVenda>
+            <ultimaAtualizacao>11/05/2023 10:34</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12398</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Kwid</modelo>
+            <ano>2022</ano>
+            <versao>Versão 3</versao>
+            <cor>Preto</cor>
+            <quilometragem>48752</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>63551.49</precoVenda>
+            <ultimaAtualizacao>27/06/2024 22:22</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Banco de couro</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12399</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>208</modelo>
+            <ano>2022</ano>
+            <versao>Versão 2</versao>
+            <cor>Branco</cor>
+            <quilometragem>68832</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>51020.79</precoVenda>
+            <ultimaAtualizacao>26/02/2023 09:00</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12400</codigoVeiculo>
+            <marca>Peugeot</marca>
+            <modelo>HB20</modelo>
+            <ano>2021</ano>
+            <versao>Versão 2</versao>
+            <cor>Branco</cor>
+            <quilometragem>90718</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>69223.66</precoVenda>
+            <ultimaAtualizacao>11/11/2023 19:21</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12401</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>HB20</modelo>
+            <ano>2019</ano>
+            <versao>Versão 5</versao>
+            <cor>Roxo</cor>
+            <quilometragem>42488</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>138140.76</precoVenda>
+            <ultimaAtualizacao>25/02/2023 21:31</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12402</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Onix</modelo>
+            <ano>2020</ano>
+            <versao>Versão 4</versao>
+            <cor>Marrom</cor>
+            <quilometragem>12372</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>68689.94</precoVenda>
+            <ultimaAtualizacao>18/04/2023 01:47</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12403</codigoVeiculo>
+            <marca>Peugeot</marca>
+            <modelo>Civic</modelo>
+            <ano>2021</ano>
+            <versao>Versão 1</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>99044</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>134987.91</precoVenda>
+            <ultimaAtualizacao>20/05/2023 14:35</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12404</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>208</modelo>
+            <ano>2023</ano>
+            <versao>Versão 3</versao>
+            <cor>Branco</cor>
+            <quilometragem>12965</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>86743.55</precoVenda>
+            <ultimaAtualizacao>03/07/2023 21:52</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12405</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Ka</modelo>
+            <ano>2021</ano>
+            <versao>Versão 3</versao>
+            <cor>Prata</cor>
+            <quilometragem>71097</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>105115.14</precoVenda>
+            <ultimaAtualizacao>30/06/2024 16:29</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12406</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Uno</modelo>
+            <ano>2021</ano>
+            <versao>Versão 5</versao>
+            <cor>Cinza</cor>
+            <quilometragem>98317</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>54839.15</precoVenda>
+            <ultimaAtualizacao>05/06/2024 19:29</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12407</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Uno</modelo>
+            <ano>2022</ano>
+            <versao>Versão 3</versao>
+            <cor>Prata</cor>
+            <quilometragem>11033</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>69254.50</precoVenda>
+            <ultimaAtualizacao>10/07/2024 01:22</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12408</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Uno</modelo>
+            <ano>2020</ano>
+            <versao>Versão 1</versao>
+            <cor>Roxo</cor>
+            <quilometragem>14098</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>122784.87</precoVenda>
+            <ultimaAtualizacao>24/11/2023 13:54</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12409</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Kicks</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Cinza</cor>
+            <quilometragem>35185</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>134901.21</precoVenda>
+            <ultimaAtualizacao>16/06/2023 05:30</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12410</codigoVeiculo>
+            <marca>Toyota</marca>
+            <modelo>Kwid</modelo>
+            <ano>2021</ano>
+            <versao>Versão 1</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>39519</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>88121.82</precoVenda>
+            <ultimaAtualizacao>02/01/2023 15:22</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12411</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Onix</modelo>
+            <ano>2018</ano>
+            <versao>Versão 5</versao>
+            <cor>Verde</cor>
+            <quilometragem>77608</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>67640.60</precoVenda>
+            <ultimaAtualizacao>06/05/2024 00:51</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12412</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Ka</modelo>
+            <ano>2024</ano>
+            <versao>Versão 1</versao>
+            <cor>Branco</cor>
+            <quilometragem>75955</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>56096.71</precoVenda>
+            <ultimaAtualizacao>04/09/2023 16:39</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12413</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>208</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>76456</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>149755.90</precoVenda>
+            <ultimaAtualizacao>15/04/2023 09:54</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12414</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Corolla</modelo>
+            <ano>2021</ano>
+            <versao>Versão 1</versao>
+            <cor>Preto</cor>
+            <quilometragem>28117</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>100948.17</precoVenda>
+            <ultimaAtualizacao>16/12/2023 03:20</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12415</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>Uno</modelo>
+            <ano>2023</ano>
+            <versao>Versão 1</versao>
+            <cor>Prata</cor>
+            <quilometragem>77893</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>92178.64</precoVenda>
+            <ultimaAtualizacao>05/11/2023 14:57</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12416</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>HB20</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Prata</cor>
+            <quilometragem>56894</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>128188.66</precoVenda>
+            <ultimaAtualizacao>16/06/2023 06:11</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12417</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Civic</modelo>
+            <ano>2018</ano>
+            <versao>Versão 4</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>75562</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>98055.26</precoVenda>
+            <ultimaAtualizacao>03/06/2023 17:04</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12418</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>HB20</modelo>
+            <ano>2023</ano>
+            <versao>Versão 2</versao>
+            <cor>Roxo</cor>
+            <quilometragem>93840</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>51533.98</precoVenda>
+            <ultimaAtualizacao>05/06/2023 06:19</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12419</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>Onix</modelo>
+            <ano>2019</ano>
+            <versao>Versão 5</versao>
+            <cor>Preto</cor>
+            <quilometragem>20274</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>115844.70</precoVenda>
+            <ultimaAtualizacao>29/06/2023 11:18</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12420</codigoVeiculo>
+            <marca>Hyundai</marca>
+            <modelo>Uno</modelo>
+            <ano>2023</ano>
+            <versao>Versão 3</versao>
+            <cor>Preto</cor>
+            <quilometragem>85636</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>90802.94</precoVenda>
+            <ultimaAtualizacao>08/01/2024 00:44</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12421</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Kicks</modelo>
+            <ano>2021</ano>
+            <versao>Versão 2</versao>
+            <cor>Azul</cor>
+            <quilometragem>91438</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>122669.71</precoVenda>
+            <ultimaAtualizacao>27/02/2023 22:40</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12422</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Polo</modelo>
+            <ano>2021</ano>
+            <versao>Versão 3</versao>
+            <cor>Preto</cor>
+            <quilometragem>86996</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>133840.52</precoVenda>
+            <ultimaAtualizacao>01/03/2023 09:18</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12423</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Kicks</modelo>
+            <ano>2020</ano>
+            <versao>Versão 4</versao>
+            <cor>Branco</cor>
+            <quilometragem>42082</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>58597.40</precoVenda>
+            <ultimaAtualizacao>09/06/2024 13:57</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Freios ABS</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12424</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>Ka</modelo>
+            <ano>2019</ano>
+            <versao>Versão 3</versao>
+            <cor>Roxo</cor>
+            <quilometragem>85515</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>87084.57</precoVenda>
+            <ultimaAtualizacao>19/01/2023 16:29</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12425</codigoVeiculo>
+            <marca>Hyundai</marca>
+            <modelo>Polo</modelo>
+            <ano>2019</ano>
+            <versao>Versão 5</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>48412</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>121253.82</precoVenda>
+            <ultimaAtualizacao>27/02/2023 23:21</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12426</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Onix</modelo>
+            <ano>2023</ano>
+            <versao>Versão 1</versao>
+            <cor>Cinza</cor>
+            <quilometragem>24290</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>95705.05</precoVenda>
+            <ultimaAtualizacao>02/06/2024 18:32</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12427</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Ka</modelo>
+            <ano>2021</ano>
+            <versao>Versão 3</versao>
+            <cor>Cinza</cor>
+            <quilometragem>44843</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>64192.83</precoVenda>
+            <ultimaAtualizacao>07/03/2024 02:01</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12428</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Onix</modelo>
+            <ano>2018</ano>
+            <versao>Versão 1</versao>
+            <cor>Preto</cor>
+            <quilometragem>7845</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>87189.96</precoVenda>
+            <ultimaAtualizacao>12/01/2023 16:00</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Câmera de ré</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12429</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Onix</modelo>
+            <ano>2018</ano>
+            <versao>Versão 4</versao>
+            <cor>Verde</cor>
+            <quilometragem>5230</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>74930.16</precoVenda>
+            <ultimaAtualizacao>06/12/2023 09:28</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Direção hidráulica</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12430</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Ka</modelo>
+            <ano>2024</ano>
+            <versao>Versão 2</versao>
+            <cor>Verde</cor>
+            <quilometragem>3598</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>117966.93</precoVenda>
+            <ultimaAtualizacao>21/05/2023 16:34</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12431</codigoVeiculo>
+            <marca>Volkswagen</marca>
+            <modelo>HB20</modelo>
+            <ano>2021</ano>
+            <versao>Versão 1</versao>
+            <cor>Roxo</cor>
+            <quilometragem>65055</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>137382.19</precoVenda>
+            <ultimaAtualizacao>11/02/2024 19:59</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12432</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Civic</modelo>
+            <ano>2024</ano>
+            <versao>Versão 4</versao>
+            <cor>Cinza</cor>
+            <quilometragem>66714</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>93117.35</precoVenda>
+            <ultimaAtualizacao>02/05/2024 04:33</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Airbag</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12433</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>208</modelo>
+            <ano>2021</ano>
+            <versao>Versão 2</versao>
+            <cor>Roxo</cor>
+            <quilometragem>72765</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>95491.58</precoVenda>
+            <ultimaAtualizacao>14/03/2023 12:34</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12434</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Kicks</modelo>
+            <ano>2020</ano>
+            <versao>Versão 3</versao>
+            <cor>Branco</cor>
+            <quilometragem>56752</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>109767.89</precoVenda>
+            <ultimaAtualizacao>06/12/2023 07:32</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12435</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Uno</modelo>
+            <ano>2020</ano>
+            <versao>Versão 5</versao>
+            <cor>Verde</cor>
+            <quilometragem>77791</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>103016.50</precoVenda>
+            <ultimaAtualizacao>27/04/2024 07:58</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12436</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Polo</modelo>
+            <ano>2024</ano>
+            <versao>Versão 4</versao>
+            <cor>Cinza</cor>
+            <quilometragem>48583</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>105571.49</precoVenda>
+            <ultimaAtualizacao>21/05/2024 17:02</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Ar condicionado</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12437</codigoVeiculo>
+            <marca>Fiat</marca>
+            <modelo>Onix</modelo>
+            <ano>2024</ano>
+            <versao>Versão 1</versao>
+            <cor>Preto</cor>
+            <quilometragem>46775</quilometragem>
+            <tipoCombustivel>Gasolina</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>108220.51</precoVenda>
+            <ultimaAtualizacao>06/10/2023 03:05</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Freios ABS</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Ar condicionado</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12438</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Ka</modelo>
+            <ano>2024</ano>
+            <versao>Versão 5</versao>
+            <cor>Roxo</cor>
+            <quilometragem>23784</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>141626.89</precoVenda>
+            <ultimaAtualizacao>15/04/2024 06:29</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12439</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Kicks</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Branco</cor>
+            <quilometragem>6583</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>4</portas>
+            <precoVenda>108073.62</precoVenda>
+            <ultimaAtualizacao>24/04/2024 17:35</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12440</codigoVeiculo>
+            <marca>Ford</marca>
+            <modelo>Corolla</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>99503</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>142434.64</precoVenda>
+            <ultimaAtualizacao>27/04/2024 08:07</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Vidros elétricos</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Multimídia</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12441</codigoVeiculo>
+            <marca>Chevrolet</marca>
+            <modelo>Civic</modelo>
+            <ano>2023</ano>
+            <versao>Versão 5</versao>
+            <cor>Cinza</cor>
+            <quilometragem>95276</quilometragem>
+            <tipoCombustivel>Diesel</tipoCombustivel>
+            <cambio>Automático</cambio>
+            <portas>2</portas>
+            <precoVenda>128180.80</precoVenda>
+            <ultimaAtualizacao>16/12/2023 11:45</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Direção hidráulica</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12442</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Polo</modelo>
+            <ano>2018</ano>
+            <versao>Versão 1</versao>
+            <cor>Amarelo</cor>
+            <quilometragem>30853</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>76373.84</precoVenda>
+            <ultimaAtualizacao>27/12/2023 21:09</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Multimídia</opcional>
+                <opcional>Câmera de ré</opcional>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Vidros elétricos</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12443</codigoVeiculo>
+            <marca>Renault</marca>
+            <modelo>Ka</modelo>
+            <ano>2020</ano>
+            <versao>Versão 2</versao>
+            <cor>Vermelho</cor>
+            <quilometragem>45802</quilometragem>
+            <tipoCombustivel>Elétrico</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>2</portas>
+            <precoVenda>115010.47</precoVenda>
+            <ultimaAtualizacao>18/04/2023 06:03</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Travas elétricas</opcional>
+                <opcional>Airbag</opcional>
+                <opcional>Banco de couro</opcional>
+                <opcional>Multimídia</opcional>
+            </opcionais>
+        </veiculo>
+        <veiculo>
+            <codigoVeiculo>12444</codigoVeiculo>
+            <marca>Honda</marca>
+            <modelo>Corolla</modelo>
+            <ano>2021</ano>
+            <versao>Versão 2</versao>
+            <cor>Preto</cor>
+            <quilometragem>97305</quilometragem>
+            <tipoCombustivel>Flex</tipoCombustivel>
+            <cambio>Manual</cambio>
+            <portas>4</portas>
+            <precoVenda>101522.79</precoVenda>
+            <ultimaAtualizacao>20/06/2024 15:13</ultimaAtualizacao>
+            <opcionais>
+                <opcional>Banco de couro</opcional>
+                <opcional>Freios ABS</opcional>
+                <opcional>Sensor de estacionamento</opcional>
+                <opcional>Direção hidráulica</opcional>
+                <opcional>Travas elétricas</opcional>
+            </opcionais>
+        </veiculo>
+    </veiculos>
+</estoque>
